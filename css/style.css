@@ -1,90 +1,54 @@
-/**********
- * COLORS *
- **********/
-
-.navy {
-  background-color: #1A212C;
+.bg-primary {
+	color: #1A212C;
 }
 
-.teal {
-  background-color: #1D7872;
+.bg-dark,
+.bg-dark h2,
+.bg-dark h3 {
+	color: white;
 }
 
-.seafoam {
-  background-color: #71B095;
+.img-logo {
+	margin-top: 60px;
+	max-width: 70%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
-.tan {
-  background-color: #DEDBA7;
+.btn-audio {
+	margin-top: 20px;
+	color: white;
+    background-color: #1D7872;
 }
 
-.orange {
-  background-color: #EA7A48;
+.btn-audio:hover {
+    background-color: #1A212C;
+    color: white;
 }
 
-.color_swatch {
-  min-width: 50px;
+.table {
+	color: #1A212C;
 }
 
-/*********
- * FONTS *
- *********/
-
-@font-face {
-  font-family: "a song for jennifer";
-  src: url(fonts/a_song_for_jennifer.ttf);
+.table thead {
+	font-size: 1.1em;
+	color: white;
+	background-color: #1A212C;
 }
 
-h1, h2, h3, h4, h5, h6,
-.h1, .h2, .h3, .h4, .h5, .h6 {
-  color: #1A212C;
-  font-family: "a song for jennifer";
-  text-transform: uppercase;
+.table tfoot {
+	font-size: 1.2em;
+	color: white;
+	background-color: #1D7872;
 }
 
-.h1, h1 {
-  font-size: 85px; /* 36px */
+img.phases {
+	border-color: #1A212C;
+	border-width: 2px;
+	border-style: solid;
+	margin-top: 40px;
 }
 
-.h2, h2 {
-  font-size: 70.5px; /* 30px */
-}
-
-.h3, h3 {
-  font-size: 56.4px; /* 24px */
-}
-
-.h4, h4 {
-  font-size: 42.3px; /* 18px */
-}
-
-.h5, h5 {
-  font-size: 32.9px; /* 14px */
-}
-
-.h6, h6 {
-  font-size: 28.2px; /* 12px */
-}
-
-body {
-  font-size: 15px;
-  color: #1A212C;
-}
-
-/* JUST TO MAKE THINGS LOOK NICE IN THE STYLEGUIDE */
-
-.margin-top {
-  margin-top: 40px;
-}
-
-.thumbnail {
-  min-height: 500px;
-}
-
-.thumbnail>img.reach_out {
-  margin-top: 145px;
-}
-
-.thumbnail>img.tagline {
-  margin-top: 162.5px;
+.margin-right {
+	margin-right: 20px;
 }
