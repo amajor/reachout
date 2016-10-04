@@ -1,4 +1,6 @@
-.bg-primary {
+.bg-primary,
+.table,
+a.dark {
 	color: #1A212C;
 }
 
@@ -24,10 +26,6 @@
 .btn-audio:hover {
     background-color: #1A212C;
     color: white;
-}
-
-.table {
-	color: #1A212C;
 }
 
 .table thead {
