@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "playlist";
+  src: url(../fonts/Playlist Script.otf);
+}
+
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
 .btn-to-devo {
 	margin: 10px;
 }
@@ -10,7 +17,7 @@
 }
 
 .devo-section {
-	font-family: playlist;
+	font-family: playlist, 'Dancing Script', cursive;
 	color: #EA7A48;
 	text-transform: capitalize;
 }
