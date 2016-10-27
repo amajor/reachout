@@ -22,7 +22,8 @@
 	text-transform: capitalize;
 }
 
-p {
+p,
+ul {
 	font-size: 18px;
 }
 
