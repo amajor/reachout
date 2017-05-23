@@ -68,3 +68,13 @@ See the [vector directory](./assets/vector) in _assets/vector/_ for all vector f
 * Compass Icon (blue): [compass-blue.eps](./assets/vector/compass-blue.eps)
 * Compass Icon (black): [compass-black.eps](./assets/vector/compass-black.eps)
 * Compass Icon (white): [compass-white.eps](./assets/vector/compass-white.eps)
+
+##### Hospitality - Youth - Mission Path
+
+* HYM (white): [hospitality-youth-mission.eps](./assets/vector/hospitality-youth-mission.eps)
+
+#### AI (Adobe Illustrator)
+
+##### Hospitality - Youth - Mission Path
+
+* HYM (white): [hospitality-youth-mission.ai](./assets/vector/hospitality-youth-mission.ai)
